@@ -9,4 +9,6 @@ Figure 1 not too large. PlasmonPictures also generates Fig. 3 of the supplementa
 
 AveragingChi creates Fig. 2.
 
+SuppPics creates Fig. 1 of the supplemental material.
+
 AveragingChiRegionFinal creates Fig. 2 of the supplemental material.
